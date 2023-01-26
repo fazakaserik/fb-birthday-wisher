@@ -1,0 +1,24 @@
+{
+  "name": "fb-birthday-wisher",
+  "version": "0.0.1",
+  "description": "Facebook automated birthday wisher with UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazakaserik/fb-birthday-wisher.git"
+  },
+  "author": "Erik Fazakas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazakaserik/fb-birthday-wisher/issues"
+  },
+  "homepage": "https://github.com/fazakaserik/fb-birthday-wisher#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "messaging-api-messenger": "^1.1.0",
+    "package.json": "^2.0.1"
+  }
+}
